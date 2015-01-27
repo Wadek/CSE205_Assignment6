@@ -1,6 +1,6 @@
 // Assignment #: 6
-//         Name: Wade Kariniemi 
-//    StudentID: 1202111213
+//         Name:
+//    StudentID:
 //      Lecture: MWF 9-950
 //  Description: 
 
